@@ -1,6 +1,6 @@
 # uAgent Projects - Temperature Monitoring Agent (2 implementations) 🚀🤖 
 
-The main theme of this project is that, the user gets the capability of monitoring the temperature in his/her selected city, and the temperature range in that city, if the temperature falls below the minimum temperature specified by the user, or the temperature rises above the maximum temperature specified by the user, the user gets notified. Here I have implemented the given theme in 2 different ways, in the first one the user gets the notification by a sms in their mobile phones and in the later one the user which is in fact an other uagent, gets notified on a remote communication server. 
+The main theme of this project is that, the user gets the capability of monitoring the temperature in his/her selected city, and the temperature range in that city, if the temperature falls below the minimum temperature specified by the user, or the temperature rises above the maximum temperature specified by the user, the user gets notified. Here I have implemented the given theme in 2 different ways, in the first one the user gets the notification by an SMS in their mobile phones and in the later one the user which is in fact an other uAgent, gets notified on a remote communication server. 
 This repository contains two distinct projects demonstrating different uAgent functionalities. Each project serves a specific purpose and showcases the capabilities of uAgents.
 
 ## Project 1: Temperature Agent which notifies user by a SMS in their mobile phones📲
@@ -37,3 +37,12 @@ Youtube Link: https://youtu.be/SKqWiv3K6IM
 
 Gdrive Link: https://drive.google.com/file/d/1GOmE0o4lgdCpiaaAMgimHn6XrsCokBrJ/view?usp=sharing
 
+## Licence
+
+Copyright 2023 Raj Bhatt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
